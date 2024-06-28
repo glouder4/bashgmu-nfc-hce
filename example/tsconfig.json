@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "bashgmu-hce": ["../src/index"],
+      "bashgmu-hce/*": ["../src/*"]
+    }
+  }
+}
