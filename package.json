@@ -28,7 +28,9 @@
   "author": "gloduer4 <https://github.com/glouder4> (https://github.com/glouder4/)",
   "license": "MIT",
   "homepage": "https://github.com/glouder4/bashgmu-nfc-hce#readme",
-  "dependencies": {},
+  "dependencies": {
+    "react-native": "^0.76.0-nightly-20240630-TEMP"
+  },
   "devDependencies": {
     "@types/react": "^18.0.25",
     "expo-module-scripts": "^3.5.2",
