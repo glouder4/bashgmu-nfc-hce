@@ -6,8 +6,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>{BashgmuHCE.hello()}</Text>
-
-      <Text>{JSON.stringify(BashgmuHCE.supportNFC())}</Text>
     </View>
   );
 }
